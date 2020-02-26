@@ -13,7 +13,7 @@
         </div>
         <div class="box-login">
             <i class="fa fa-lock"></i>
-            <input type="text" placeholder="Password">
+            <input type="password" placeholder="Password">
         </div>
 
         <button type="submit" class="btn-login">
